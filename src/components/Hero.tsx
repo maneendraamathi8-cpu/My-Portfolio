@@ -40,7 +40,7 @@ const Hero = () => {
 
             {/* DOWNLOAD RESUME BUTTON */}
             <a
-              href="/Maneendra-Resume.pdf"
+              href="/My-Portfolio/Maneendra-Resume.pdf"
               download="Maneendra-Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
