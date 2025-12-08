@@ -40,8 +40,8 @@ const Hero = () => {
 
             {/* DOWNLOAD RESUME BUTTON */}
             <a
-              href="/Maneendra-Resume"
-              download="Maneendra-Resume"
+              href="/Maneendra-Resume.pdf"
+              download="Maneendra-Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="group px-8 py-4 bg-gradient-to-r from-blue-500 to-sky-400 text-white rounded-full font-semibold shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300 flex items-center gap-2"
